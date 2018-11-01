@@ -2,5 +2,5 @@
 
 
 [md书写规范](https://www.jianshu.com/p/436caf91dd06)
-1. this.triggerEvent('action',oAccount);
+> this.triggerEvent('action',oAccount);
 * 我是无序排列
