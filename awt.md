@@ -22,3 +22,8 @@ clearInterval(this.interval)
 ````
 返回字符的Unicode 编码（ASCII）, 汉字的charCodeAt在 大于255
 ````
+
+***4. 绘制小程序分享****
+`````
+https://www.cnblogs.com/gavinjay/p/8582137.html
+`````
