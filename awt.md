@@ -9,6 +9,7 @@
 
 ```
 
+### 跳转页面清除定时器
 ````
 onUnload: function () {
 clearInterval(this.interval)
