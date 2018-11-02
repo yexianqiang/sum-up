@@ -5,7 +5,7 @@
 
 ## 小程序
 
-**1. 抛出事件中属性 **
+***1. 抛出事件中属性***
 ```
 > this.triggerEvent('action',oAccount)
 
