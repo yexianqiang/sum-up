@@ -6,7 +6,11 @@
 ## 小程序
 ```
 > this.triggerEvent('action',oAccount)
-> 我是无序排列
-> www
 
 ```
+
+````
+onUnload: function () {
+clearInterval(this.interval)
+},
+````
