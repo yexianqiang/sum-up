@@ -27,3 +27,57 @@ clearInterval(this.interval)
 `````
 https://www.cnblogs.com/gavinjay/p/8582137.html
 `````
+***5. 跳转页面***
+`````
+https://www.cnblogs.com/liuqingxia/p/7844937.html
+`````
+***6. animation***
+````
+transformOrigin
+transtion和animation区别(https://blog.csdn.net/liaozhongping/article/details/79511820)
+````
+
+***7. charles***
+```
+简介https://blog.csdn.net/JerryWu145/article/details/52013128?utm_source=blogxgwz4
+```
+
+***8. promise***
+```
+异步调用 https://blog.csdn.net/u011500781/article/details/73883903?locationNum=7&fps=1
+var $ajax = (url, data, method) => {
+//     return new Promise((resolve, reject) => {
+//         defaultRequest = {
+//             data: data || {},
+//             url,
+//             type: method || 'POST',
+//             // dataType: 'json',
+            
+//             success:function(res){
+//                 resolve(res)
+//             },
+//             fail: (res) => {
+//                 reject(res)
+//             }
+//         }
+//         Object.assign(defaultRequest, data);
+        
+//         $.ajax(defaultRequest)
+//     })
+// };
+
+// var b1 = $ajax('/SPREADAPI/porsche/ad/v2/getAd',{adSlotId: 'APP-A10051'},'GET')
+// var a1 =  $ajax('/SPREADAPI/porsche/koiapi/v1/getkiounixtime')
+
+// a1.then(function(res){
+//     console.log(res)
+//     return b1
+// })
+// .then(function(res){
+//     console.log(res)
+// })
+// Promise.all([b1, a1]).then((result)=>{
+//     console.log(result)
+//     console.log(1111)
+// })
+```
