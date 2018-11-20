@@ -81,3 +81,7 @@ var $ajax = (url, data, method) => {
 //     console.log(1111)
 // })
 ```
+***9.file和http协议***
+```
+![avatar](/images/picture/fileAnd_ht.png)
+```
