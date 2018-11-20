@@ -85,3 +85,9 @@ var $ajax = (url, data, method) => {
 ```
 ![avatar](/images/fileAnd_ht.png)
 ```
+
+***10. on 和直接绑定click***
+```
+element.click这种写法不支持给动态元素或者样式重新绑定事件
+https://www.cnblogs.com/wcm19910616/articles/5456952.html
+```
