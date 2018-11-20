@@ -83,5 +83,5 @@ var $ajax = (url, data, method) => {
 ```
 ***9.file和http协议***
 ```
-![avatar](/images/images/fileAnd_ht.png)
+![avatar](/images/fileAnd_ht.png)
 ```
