@@ -91,3 +91,8 @@ var $ajax = (url, data, method) => {
 element.click这种写法不支持给动态元素或者样式重新绑定事件
 https://www.cnblogs.com/wcm19910616/articles/5456952.html
 ```
+***11.dom树以及页面渲染过程***
+```
+https://juejin.im/post/59c60691518825396f4f71a1
+https://www.cnblogs.com/CandyManPing/p/6635008.html#autoid-1-1-0
+```
