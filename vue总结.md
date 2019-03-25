@@ -68,3 +68,4 @@ next(vm=>{console.log(‘next’) })
 ````
 我是hello
 我是第一次
+我是第二次
