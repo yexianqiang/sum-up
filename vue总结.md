@@ -66,3 +66,4 @@ next(vm=>{console.log(‘next’) })
     https://www.jianshu.com/p/6300e482315e
     那么a.vue和b.vue打包后的文件大小将比不加上build.vendor小，如果很多文件都需要引入axios的话，那么对于文件大小的优化效果是比较明显的
 ````
+我是master
